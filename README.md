@@ -163,8 +163,8 @@ flowchart TD
 ## 📸 Dashboard Final
 
 > 📌 ![Dashboard](./Titular.png)
-     ![Dashboard](.Informe.png)
-     ![Dashboard](.Notas.png)
+     ![Dashboard](./Informe.png)
+     ![Dashboard](./Notas.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
